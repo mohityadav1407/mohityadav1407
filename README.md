@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohit Yadav</h1>
 <h3 align="center">From Frontend to Backend – I Build Complete Web Solutions That Drive Results</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohityadav1407&label=Profile%20views&color=0e75b6&style=flat" alt="mohityadav1407" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohityadav1407&label=Profile%20views&color=0e75b6&style=flat" alt="mohityadav1407" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohityadav1407" alt="mohityadav1407" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohityadav1407" alt="mohityadav1407" /></a> </p> -->
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
 
